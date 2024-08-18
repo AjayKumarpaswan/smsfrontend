@@ -6,7 +6,6 @@ import {
     Paper, Table, TableBody, TableContainer,
     TableHead, TablePagination, Button, Box, IconButton,
 } from '@mui/material';
-import { deleteUser } from '../../../redux/userRelated/userHandle';
 import PersonRemoveIcon from '@mui/icons-material/PersonRemove';
 import { StyledTableCell, StyledTableRow } from '../../../components/styles';
 import { BlueButton, GreenButton } from '../../../components/buttonStyles';
